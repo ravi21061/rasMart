@@ -126,7 +126,7 @@ const Collection = () => {
       <div className='flex-1'>
         <div className='flex justify-between text-base sm:text-2xl mb-4'>
           <div>
-            <h2>Collection Page</h2>
+            <h2 style={{color: "red"}}>Collection Page</h2>
           </div>
           {/* <Title text1={'All'} text2={'Collections'} /> */}
           {/* Product Sort */}
